@@ -135,6 +135,48 @@
 
 //every
 //1-masala
+// let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+// let sum;
+// arr.every(function(value) {
+//     return  sum=value>0
+// })
+// console.log(sum);
+
+//2-masala
+// let arr = [20, 30, 50, 80, 101];
+// let sum;
+// arr.every(function (value) {
+//   return (sum = value > 50);
+// });
+// console.log(sum);
+
+//3-masala
+// let arr = [20, 30, 50, 80, 90];
+// let sum;
+// arr.every(function (value) {
+//   return (sum = value > 90);
+// });
+// console.log(sum);
+
+
+//4-masala
+// let arr = [20, 30, 50, 80, 101];
+// let sum;
+// arr.every(function (value) {
+//   return (sum = value %2==0);
+// });
+// console.log(sum);
+
+//5-masala
+// let arr = ['ali','bekozd'];
+// let sum;
+// arr.every(function (value) {
+//   return (sum = value[0] == 'a');
+// });
+// console.log(sum);
+
+//find / findIndex
+//1-masala
 
 
 
